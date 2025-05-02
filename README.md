@@ -11,14 +11,14 @@ The dataset is divided into two main folders:
 ```
 
 .
-├── dataset\_train/        # Training set (80% split recommended)
+├── dataset_train/        # Training set (80% split recommended)
 │   ├── gembira/
 │   ├── marah/
 │   ├── netral/
 │   ├── sedih/
 │   ├── takut/
 │   └── terkejut/
-├── dataset\_test/         # Testing set (20% split recommended)
+├── dataset_test/         # Testing set (20% split recommended)
 │   ├── gembira/
 │   ├── marah/
 │   ├── netral/
