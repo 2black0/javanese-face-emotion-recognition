@@ -118,16 +118,21 @@ Created by **Ardy Seto Priambodo**
 
 ## ⭐ How to Cite
 
-If you use this dataset for your research, please cite:
+If you use this dataset for your research, please cite our paper:
 
 ```
-
-@misc{javanese\_emotion\_dataset,
-author       = {Fatchul Arifin, Ardy Seto Priambodo, Aris Nasuha, Anggun Winursito, Teddy Surya Gunawan},
-title        = {Development of Javanese Speech Emotion Database (Java-SED)},
-year         = {2022},
-howpublished = {\url{[https://github.com/2black0/Javanese-Face-Emotion-Recognition-Dataset}}](https://github.com/2black0/Javanese-Face-Emotion-Recognition-Dataset}}),
-note         = {Accessed: YYYY-MM-DD}
+@article{Arifin2022,
+  title = {Development of Javanese Speech Emotion Database (Java-SED)},
+  volume = {10},
+  ISSN = {2089-3272},
+  url = {http://dx.doi.org/10.52549/ijeei.v10i3.3888},
+  DOI = {10.52549/ijeei.v10i3.3888},
+  number = {3},
+  journal = {Indonesian Journal of Electrical Engineering and Informatics (IJEEI)},
+  publisher = {IAES Indonesia Section},
+  author = {Arifin,  Fatchul and Priambodo,  Ardy Seto and Nasuha,  Aris and Winursito,  Anggun and Gunawan,  Teddy Surya},
+  year = {2022},
+  month = sep 
 }
 
 ```
